@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+<a href="https://github.com/rohanpurandare"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpurandare&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 <!--
 **rohanpurandare/rohanpurandare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
