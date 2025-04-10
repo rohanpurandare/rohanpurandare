@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm Rohan, a second-year Master's student studying Computer Science at Purdue.
 
 ### 💡 What I'm learning:
-- Algorithms
-- Networks
-- Security Analytics
-- Algorithmic Economics
+- Compilers
+- Natural Language Processing
+- Data Security and Privacy
 
 ### 🧠 Topics I've learned:
 - Software Engineering
